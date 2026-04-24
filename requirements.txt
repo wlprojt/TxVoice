@@ -1,6 +1,5 @@
 fastapi
-uvicorn[standard]
+uvicorn
 numpy
 soundfile
 kokoro
-python-multipart
