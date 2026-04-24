@@ -1,5 +1,10 @@
+pip>=25.0
+setuptools>=70.0
+wheel>=0.43.0
+
 fastapi
-uvicorn
+uvicorn[standard]
 numpy
 soundfile
 kokoro
+python-multipart
